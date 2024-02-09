@@ -35,6 +35,9 @@ class Plugin:
         os.system("udevadm control --reload")
         decky_plugin.logger.info("Reloaded services")
 
+        os.chmod(f"{SCRIPT_PATH}/disable_steam_input.sh", 0o555)
+        decky_plugin.logger.info("Set permissions on scawp script")
+
 
     # Function called first during the unload process, utilize this to handle your plugin being removed
     async def _unload(self):
