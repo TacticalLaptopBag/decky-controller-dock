@@ -1,0 +1,4 @@
+[submodule "defaults/Steam-Deck.Auto-Disable-Steam-Controller"]
+	path = defaults/Steam-Deck.Auto-Disable-Steam-Controller
+	url = git@github.com:TacticalLaptopBag/Steam-Deck.Auto-Disable-Steam-Controller.git
+	branch = patch-1
