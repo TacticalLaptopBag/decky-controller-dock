@@ -1,7 +1,7 @@
 {
   "name": "Controller Dock",
   "author": "TacticalLaptopBag",
-  "flags": ["debug", "_root"],
+  "flags": ["debug", "root"],
   "publish": {
     "tags": ["controller", "dock", "disable", "scawp", "root"],
     "description": "Installs scawp's Steam Deck Auto Disable Steam Controller script",
