@@ -7,6 +7,7 @@ NOTE: This plugin will actually install the script from [Mazebird's fork](https:
 This is because the script broke with SteamOS 3.5 and Mazebird made a fix which scawp has yet to pull into the main repo.
 Seeing as scawp hasn't made a commit to the main branch in over a year,
 I'm not certain if it will ever be merged.
+See [this issue](https://github.com/scawp/Steam-Deck.Auto-Disable-Steam-Controller/issues/5) for more information.
 
 If this finally gets merged and I don't catch it, open an issue!
 
