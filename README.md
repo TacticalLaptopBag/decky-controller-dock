@@ -1,3 +1,15 @@
+# Decky Controller Dock
+**UNDER DEVELOPMENT. NOT READY FOR USE.**
+
+This simple Decky plugin for the Steam Deck makes it easy to install scawp's [Steam Deck Auto Disable Steam Controller](https://github.com/scawp/Steam-Deck.Auto-Disable-Steam-Controller) script.
+
+NOTE: This plugin will actually install the script from [Mazebird's fork](https://github.com/Mazebird/Steam-Deck.Auto-Disable-Steam-Controller/tree/patch-1).
+This is because the script broke with SteamOS 3.5 and Mazebird made a fix which scawp has yet to pull into the main repo.
+Seeing as scawp hasn't made a commit to the main branch in over a year,
+I'm not certain if it will ever be merged.
+
+If this finally gets merged and I don't catch it, open an issue!
+
 # React-Frontend Plugin Template [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://deckbrew.xyz/discord)
 
 Reference example for using [decky-frontend-lib](https://github.com/SteamDeckHomebrew/decky-frontend-lib) in a [decky-loader](https://github.com/SteamDeckHomebrew/decky-loader) plugin.
