@@ -3,8 +3,8 @@
   "author": "TacticalLaptopBag",
   "flags": ["debug", "root"],
   "publish": {
-    "tags": ["controller", "dock", "disable", "scawp", "root"],
+    "tags": ["dock", "scawp", "root", "auto", "disable", "steam", "controller", "script"],
     "description": "Installs scawp's Steam Deck Auto Disable Steam Controller script",
-    "image": "https://opengraph.githubassets.com/1/SteamDeckHomebrew/PluginLoader"
+    "image": "https://raw.githubusercontent.com/TacticalLaptopBag/decky-controller-dock/main/assets/banner.png"
   }
 }
