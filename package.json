@@ -24,7 +24,7 @@
     "script"
   ],
   "author": "Tactical Laptop Bag <lightpower26@hotmail.com>",
-  "license": "BSD-3-Clause",
+  "license": "GPL-3.0",
   "bugs": {
     "url": "https://github.com/TacticalLaptopBag/decky-controller-dock/issues"
   },
