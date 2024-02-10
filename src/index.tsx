@@ -7,7 +7,7 @@ import {
   ToggleField,
 } from "decky-frontend-lib";
 import { useState, VFC } from "react";
-import { FaShip } from "react-icons/fa";
+import { FaGamepad } from "react-icons/fa";
 
 
 const Content: VFC<{ serverAPI: ServerAPI }> = ({serverAPI}) => {
@@ -70,7 +70,7 @@ export default definePlugin((serverApi: ServerAPI) => {
   return {
     title: <div className={staticClasses.Title}>Controller Dock</div>,
     content: <Content serverAPI={serverApi} />,
-    icon: <FaShip />,
+    icon: <FaGamepad />,
     // onDismount() {
     //   serverApi.routerHook.removeRoute("/decky-nav-test");
     // },
