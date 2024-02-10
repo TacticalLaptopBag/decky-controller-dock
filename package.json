@@ -14,16 +14,21 @@
   "keywords": [
     "decky",
     "plugin",
-    "plugin-template",
     "steam-deck",
-    "deck"
+    "deck",
+    "scawp",
+    "auto",
+    "disable",
+    "steam",
+    "controller",
+    "script"
   ],
-  "author": "Jonas Dellinger <jonas@dellinger.dev>",
+  "author": "Tactical Laptop Bag <lightpower26@hotmail.com>",
   "license": "BSD-3-Clause",
   "bugs": {
-    "url": "https://github.com/SteamDeckHomebrew/decky-plugin-template/issues"
+    "url": "https://github.com/TacticalLaptopBag/decky-controller-dock/issues"
   },
-  "homepage": "https://github.com/SteamDeckHomebrew/decky-plugin-template#readme",
+  "homepage": "https://github.com/TacticalLaptopBag/decky-controller-dock#readme",
   "devDependencies": {
     "@rollup/plugin-commonjs": "^21.1.0",
     "@rollup/plugin-json": "^4.1.0",
