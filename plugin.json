@@ -5,6 +5,6 @@
   "publish": {
     "tags": ["dock", "scawp", "root", "auto", "disable", "steam", "controller", "script"],
     "description": "Installs scawp's Steam Deck Auto Disable Steam Controller script",
-    "image": "https://raw.githubusercontent.com/TacticalLaptopBag/decky-controller-dock/main/icon/banner.png"
+    "image": "https://raw.githubusercontent.com/TacticalLaptopBag/decky-controller-dock/main/icon/banner.png?raw=true"
   }
 }
