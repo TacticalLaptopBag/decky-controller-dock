@@ -1,10 +1,10 @@
 {
-  "name": "Example Plugin",
-  "author": "John Doe",
-  "flags": ["debug", "_root"],
+  "name": "Controller Dock",
+  "author": "TacticalLaptopBag",
+  "flags": ["root"],
   "publish": {
-    "tags": ["template", "root"],
-    "description": "Decky example plugin.",
-    "image": "https://opengraph.githubassets.com/1/SteamDeckHomebrew/PluginLoader"
+    "tags": ["dock", "scawp", "root", "auto", "disable", "steam", "controller", "script"],
+    "description": "Installs scawp's Steam Deck Auto Disable Steam Controller script",
+    "image": "https://raw.githubusercontent.com/TacticalLaptopBag/decky-controller-dock/main/icon/banner.png?raw=true"
   }
 }
