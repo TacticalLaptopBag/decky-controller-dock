@@ -1,5 +1,9 @@
 # Controller Dock
 
+![Controller Dock Banner Image](https://raw.githubusercontent.com/TacticalLaptopBag/decky-controller-dock/main/icon/banner.png?raw=true)
+
+
+
 This plugin is a simple wrapper around scawp's [Steam-Deck.Auto-Disable-Steam-Controller](https://github.com/scawp/Steam-Deck.Auto-Disable-Steam-Controller/) script.
 This script makes it much easier to treat your Steam Deck as a portable home console.
 If you connect any external controllers, then the Steam Deck's built-in controller will be disconnected.
