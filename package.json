@@ -1,6 +1,6 @@
 {
   "name": "decky-controller-dock",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Installs scawp's Steam Deck Auto Disable Steam Controller script",
   "scripts": {
     "build": "shx rm -rf dist && rollup -c",
